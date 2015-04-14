@@ -55,7 +55,7 @@ Types = {
         MAILARMOR: 23,
         PLATEARMOR: 24,
         REDARMOR: 25,
-        GOLDENARMOR: 26,
+        GOLDENARMOR: 100,
         
         // Objects
         FLASK: 35,
@@ -88,8 +88,8 @@ Types = {
         REDSWORD: 62,
         GOLDENSWORD: 63,
         MORNINGSTAR: 64,
-        AXE: 65,
-        BLUESWORD: 66
+        AXE: 100,
+        BLUESWORD: 100
     },
     
     Orientations: {
